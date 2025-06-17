@@ -37,8 +37,8 @@ Estudiante de Ciencia de Datos e AI/ML
 
 ## 📸 Vista previa
 
-![screenshot del juego](ruta/a/una/captura.png)  
-*(Puedes subir una captura en el repo para que esto se vea)*
+![screenshot del juego](número_secreto.png)  
+
 
 ## 🚀 ¿Quieres probarlo?
 
